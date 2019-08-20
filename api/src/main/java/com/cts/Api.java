@@ -10,8 +10,7 @@ public class Api {
         return a + b;  
  }
  
- public int apiSubtraction(int a, int b) {
-	 
+ public int apiSubtraction(int a, int b) {	 
      return a - b;
  }
  
