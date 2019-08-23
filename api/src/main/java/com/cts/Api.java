@@ -16,7 +16,7 @@ public class Api {
  
  public int apiMultiplication(int a, int b) {
 	
-        //return a * b;
+        return a * b;
  }
 
  public int apiDivison(int a, int b)  {
