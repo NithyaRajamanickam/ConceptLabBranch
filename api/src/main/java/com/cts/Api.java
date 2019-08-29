@@ -8,6 +8,9 @@ public class Api {
     public int apiSum(int a, int b) {
     	         return a + b;  
  }
+    public int apiSum2(int a, int b) {
+        return a + b;  
+}
  
  public int apiSubtraction(int a, int b) {
 	 
