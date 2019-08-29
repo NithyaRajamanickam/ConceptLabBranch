@@ -10,7 +10,6 @@ public class Api {
  }
  
  public int apiSubtraction(int a, int b) {
-	 System.out.println(String.format("The value of my integer is %d", "Hello World"));  // Noncompliant; an 'int' is expected rather than a String)    
      return a - b;
  }
  
