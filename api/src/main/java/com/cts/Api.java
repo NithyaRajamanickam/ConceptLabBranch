@@ -9,6 +9,16 @@ public class Api {
     	         return a + b;  
  }
     public int apiSum2(int a, int b) {
+
+int param = 1;
+		if (param == 1)
+		 System.out.println("foo");
+		else if (param == 2)
+		 System.out.println("foo");
+		else if (param == 1) 
+		{// Noncompliant
+		  System.out.println("foo");
+		}
         return a + b;  
 }
  
