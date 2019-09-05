@@ -4,7 +4,6 @@ package com.cts;
 
 
 public class Api {
-
     public int apiSum(int a, int b) {
     	         return a + b;  
  }
