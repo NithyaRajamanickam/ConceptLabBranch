@@ -11,13 +11,13 @@ public class Api {
  }
     public int apiSum2(int a, int b) {
 
-int param = 1;
+    	int param = 1;
 		
         return a + b;  
 }
  
  public int apiSubtraction(int a, int b) {
-	 
+	 System.out.println(String.format("The value of my integer is %d", "Hello World"));  // Noncompliant; an 'int' is expected rather than a String)
      return a - b;
  }
  
