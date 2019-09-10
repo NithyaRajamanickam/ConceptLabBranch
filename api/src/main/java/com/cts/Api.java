@@ -25,8 +25,7 @@ public class Api {
         return a * b;
  }
 
- public int apiDivison(int a, int b)  {
-	 System.out.println(String.format("The value of my integer is %d", "Hello World"));  // Noncompliant; an 'int' is expected rather than a String) 
+ public int apiDivison(int a, int b)  {	 
         return a / b;
  }
  
